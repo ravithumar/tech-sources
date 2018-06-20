@@ -1,2 +1,0 @@
-# tech-sources
-developer source
